@@ -51,4 +51,18 @@ html{
     margin-right:2%;
     padding-top:5px;
   }
-
+.navlink:hover{
+    padding-left:2%;
+    padding-right:2%;
+    border-radius: 15px 50px;
+    background-color:#594545;
+    text-decoration:none;
+    color:#f5e0ce;
+    padding-right:5%;
+    padding-left:5%;
+    margin-right:2%;
+    padding-top:5px;
+  }
+  #intro h3{
+    text-align:center;
+  }
