@@ -1,0 +1,19 @@
+html{
+    width:100%;
+    height:100%;
+    margin:0%;
+
+  }
+  body{
+    background-image:linear-gradient(#815B5B,#9E7676,#f5e0ce,#594545);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+  #laman,#ulkar,#madina,#zulfiyya{
+    display:inline-block;
+    border-radius: 15px 50px;
+    background-color:#f5e0ce;
+    padding-left:3%;
+    padding-right:3%;
+  }
+  
