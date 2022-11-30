@@ -16,4 +16,20 @@ html{
     padding-left:3%;
     padding-right:3%;
   }
-  
+  #members{
+    padding:1%;
+    text-align:center;
+  }
+  #intro h1{
+    text-align:center;
+    padding:1%;
+  }
+  header{
+    background-size:cover;
+    text-align:right;
+    height:150px;    
+    background-image:url("https://wallpaperaccess.com/full/3173341.jpg")
+  }
+  body{
+    margin:0%;
+  }
