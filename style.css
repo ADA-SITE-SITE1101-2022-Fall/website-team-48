@@ -86,3 +86,31 @@ th,td{
 table,th,td{
   margin:1%;
 }
+#hour-intro{
+  text-align:center;
+  background-color:#f5e0ce;
+  border-radius: 15px 50px;
+  padding:1%;
+  margin:1%;
+}
+#intro h1,h3{
+  background-color:#f5e0ce;
+  border-radius: 15px 50px;
+  padding:1%;
+  margin:1%;
+}
+.photos{
+  width:60%;
+  height:60%;
+  background-color:#f5e0ce;
+  border-radius: 15px 50px;
+  padding:1%;
+  margin:1%;
+}
+
+#gallery{
+  align-items: center;
+  justify-content: center;
+  margin:auto;
+  padding-left:25%;
+}
